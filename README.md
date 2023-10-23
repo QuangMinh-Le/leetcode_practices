@@ -2,4 +2,4 @@
 
 Hello, this is Minh practicing codinggggg😁😁
 <br/>
-<code>Number of problems solved:</code> **1**
+<code>Number of problems solved:</code> **2**
