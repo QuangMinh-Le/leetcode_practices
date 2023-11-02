@@ -1,0 +1,13 @@
+from ast import List
+
+class Solution:
+    def twoSum(self, nums: List[int], target: int) -> List[int]:
+        res = []; 
+        for i in range(len(nums[:-1])):
+            for j in range(i+1, len(nums)):
+                if nums[i] + nums[j] == target:
+                    if i not in res:
+                        if j not in res:
+                            res.append(i)
+                            res.append(j)
+        return res
