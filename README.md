@@ -2,6 +2,6 @@
 
 Hello, this is Minh practicing codinggggg😁😁
 <br/>
-<code>Number of problems solved:</code> **13**
+<code>Number of problems solved:</code> **14**
 <br/>
-<code>Number of problems solved:</code> Java, Python
+<code>Number of problems solved:</code> Java, Python, C#
