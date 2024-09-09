@@ -2,6 +2,6 @@
 
 Hello, this is Minh practicing codinggggg😁😁
 <br/>
-<code>Number of problems solved:</code> **15**
+<code>Number of problems solved:</code> **17**
 <br/>
 <code>Languages:</code> Java, Python, C#
