@@ -1,4 +1,4 @@
-# Write your MySQL query statement below
+
 SELECT  
    Prices.product_id
    ,coalesce( ROUND(SUM(Prices.price * UnitsSold.units) / Sum(UnitsSold.units), 2) , 0) As average_price
